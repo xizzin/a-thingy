@@ -1,0 +1,14 @@
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.AssemblyInfoInputs.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.AssemblyInfo.cs
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.csproj.CoreCompileInputs.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\bin\Debug\net6.0\a thing.exe
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\bin\Debug\net6.0\a thing.deps.json
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\bin\Debug\net6.0\a thing.runtimeconfig.json
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\bin\Debug\net6.0\a thing.dll
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\bin\Debug\net6.0\a thing.pdb
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.dll
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\refint\a thing.dll
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.pdb
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\a thing.genruntimeconfig.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\a thing\obj\Debug\net6.0\ref\a thing.dll
